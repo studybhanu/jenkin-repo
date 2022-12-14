@@ -5,3 +5,4 @@ list2 = [100,200,300,400,500]
 res_list2 = [i*0.2 for i in list2]
 print(res_list2)
 print("list completed")
+print("hi bhanu where is your lover")
